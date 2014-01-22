@@ -1,0 +1,10 @@
+{ 
+	"extensionName": "Extension Example",
+	"extensionPort": 12345,
+	"blockSpecs": [
+		[" ", "starts flight", "startFlight"],
+		["w", "example", "example"],
+		[" ", "set beep volume to %n", "setVolume", 5],
+		["r", "three", "volume"],
+	]
+}
